@@ -6,7 +6,7 @@ void main(){
   final List<String> abilities = ['impostor'];
   final sprites = <String> ['ditto/front.png'];
   
-  
+  print(sprites);
   
   print("""
   
